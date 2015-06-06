@@ -1,0 +1,52 @@
+﻿div {text-align:center;}
+img {height:auto; max-width:100%;}
+.para {
+  font-family:'Lato', sans-serif;
+  font-size:14px;
+  text-align:justify;
+  color:#555555;
+}
+.title {
+  font-family:'Open Sans', sans-serif;
+  text-transform:uppercase;
+  font-size:18px;
+  text-align:left;
+  color:#555555;
+}
+.original-price {
+  text-decoration:line-through;
+  font-family:'Open Sans', sans-serif;
+  color:#555555;
+  font-size:17px;
+  
+}
+.discount-price {
+  color:#dda065;
+  font-family:'Open Sans', sans-serif;
+  font-size:22px;
+}
+.voir-offre {
+  font-family:'Open Sans', sans-serif;
+  text-transform:uppercase;
+  font-size:12px;
+  color:#555555;
+}
+.title2{
+  font-family:'Open Sans', sans-serif;
+  text-transform:uppercase;
+  font-sier:14px;
+  color:#555555;
+  text-align:left;
+}
+.review {
+  font-family:'Lato', sans-serif;
+  font-size:14px;
+  text-align:justify;
+  color:#555555;
+  font-style:italic;
+}
+#menu {
+  color:#555555;
+  font-family:'Open Sans', sans-serif;
+  font-size:13px;
+}
